@@ -1,0 +1,15 @@
+## Interface: 11302
+## Title: AHScrape
+## Notes: AH Scraper
+## Author: Ja
+## Version: 0.01
+## SavedVariables: AHSDB, AHSDB_csv
+
+util\misc.lua
+util\thread.lua
+util\event.lua
+util\csv.lua
+
+core\scan.lua
+
+ahscrape.lua
